@@ -1,0 +1,15 @@
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\exemplo_Fundamentos.exe
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\exemplo_Fundamentos.deps.json
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\exemplo_Fundamentos.runtimeconfig.json
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\exemplo_Fundamentos.dll
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\exemplo_Fundamentos.pdb
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.AssemblyInfoInputs.cache
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.AssemblyInfo.cs
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.sourcelink.json
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.dll
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\refint\exemplo_Fundamentos.dll
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.pdb
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_Fundamentos.genruntimeconfig.cache
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\ref\exemplo_Fundamentos.dll
