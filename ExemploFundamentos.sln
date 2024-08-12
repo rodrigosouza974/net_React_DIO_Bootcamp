@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemplo_Fundamentos", "exemplo_Fundamentos\exemplo_Fundamentos.csproj", "{F1CC259E-369D-40B3-8722-4FFECE73E97B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.Common", "ExemploFundamentos.Common\ExemploFundamentos.Common.csproj", "{2FB8931F-EB5C-43C0-AD63-06CDD26D9E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CC259E-369D-40B3-8722-4FFECE73E97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CC259E-369D-40B3-8722-4FFECE73E97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CC259E-369D-40B3-8722-4FFECE73E97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CC259E-369D-40B3-8722-4FFECE73E97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB8931F-EB5C-43C0-AD63-06CDD26D9E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB8931F-EB5C-43C0-AD63-06CDD26D9E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB8931F-EB5C-43C0-AD63-06CDD26D9E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB8931F-EB5C-43C0-AD63-06CDD26D9E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

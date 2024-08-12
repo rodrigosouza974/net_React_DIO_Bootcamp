@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics.Metrics;
 using System.Linq;
 using System.Threading.Tasks;
-using exemplo_Fundamentos.Models;
 
-namespace exemplo_Fundamentos.Models
+namespace ExemploFundamentos.Common.Models
 {
     public class Pessoa
     {

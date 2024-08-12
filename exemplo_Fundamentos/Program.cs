@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-using exemplo_Fundamentos.Models;
+﻿
+// See https://aka.ms/new-console-template for more information
+using ExemploFundamentos.Common.Models;
 
 Console.WriteLine("Hello, World!");
 //instanciamento de Pessoa
