@@ -2,9 +2,16 @@
 // See https://aka.ms/new-console-template for more information
 using ExemploFundamentos.Common.Models;
 
-Console.WriteLine("Hello, World!");
+
 //instanciamento de Pessoa
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "João";
-pessoa1.Idade = 30;
-pessoa1.Apresentar();
+Pessoa pessoa1 = new Pessoa("João","silva");
+Pessoa pessoa2 = new Pessoa(nome:"carlos",sobrenome:"marinho");
+
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "ingles";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+cursoDeIngles.AdicionarAluno(pessoa2);
+cursoDeIngles.AdicionarAluno(pessoa1);
+cursoDeIngles.ListarAlunos();
+
