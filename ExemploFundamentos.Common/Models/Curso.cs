@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace ExemploFundamentos.Common.Models
@@ -25,9 +26,11 @@ namespace ExemploFundamentos.Common.Models
         }
         public void ListarAlunos() //metodo listar alunos matriculados
         {
-            foreach (Pessoa aluno in Alunos)
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                Console.WriteLine(aluno.NomeCompleto);
+                String texto = $" N {count +1} - {Alunos[count].NomeCompleto}" ;
+                Console.WriteLine(texto);
+
             }
         }
     }
