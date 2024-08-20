@@ -1,0 +1,72 @@
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.pdb
+*.db
+*.lock
+*.pdb
+*.mdb
+
+# Directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Visual Studio temporary files
+.vscode/
+.vscode/*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider project files
+.idea/
+
+# Mono auto generated files
+mono_crash.*
+
+# DotNet-specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.props
+*.targets
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac System files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows shortcuts
+*.lnk
