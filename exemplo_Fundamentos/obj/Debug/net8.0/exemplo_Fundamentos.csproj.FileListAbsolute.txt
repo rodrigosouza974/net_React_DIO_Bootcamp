@@ -17,3 +17,4 @@ C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debu
 C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.dll
 C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
 C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\obj\Debug\net8.0\exemplo_.854E0D1E.Up2Date
+C:\Users\i5\Documents\GitHub\net_React_DIO_Bootcamp\exemplo_Fundamentos\bin\Debug\net8.0\Newtonsoft.Json.dll
